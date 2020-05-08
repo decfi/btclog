@@ -1,3 +1,3 @@
-module github.com/btcsuite/btclog
+module github.com/decfi/btclog
 
-go 1.12
+go 1.14
